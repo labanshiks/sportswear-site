@@ -1,2 +1,4 @@
 # sportswear-site
-An e-commerce website for sportswear
+A responsive e-commerce website for sportswear
+# subheader 
+Watch Youtube tutorial
