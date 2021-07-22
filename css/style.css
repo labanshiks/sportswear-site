@@ -58,7 +58,7 @@ p{
 }
 .btn{
     display: inline-block;
-    background: #ff523b;
+    background: lightseagreen;
     color: #fff;
     padding: 8px 30px;
     margin: 30px 0;
@@ -70,7 +70,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: lightseagreen;
 }
 .header .row{
     margin-top: 70px;
@@ -111,7 +111,7 @@ p{
 }
 .title::after{
     content: '';
-    background: #ff523b;
+    background: lightseagreen;
     width: 80px;
     height: 5px;
     border-radius: 5px;
@@ -128,14 +128,14 @@ h4{
     font-size: 14px;
 }
 .rating{
-    color: #ff523b;
+    color: lightseagreen;
 }
 .col-4:hover{
     transform: translateY(-5px);
 }
 /*----- offer -----*/
 .offer{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: lightseagreen;
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -166,7 +166,7 @@ small{
 }
 .fa-quote-left{
     font-size: 34px;
-    color:#ff523b ;
+    color:lightseagreen;
 }
 .col-3{
     font-size: 12px;
@@ -258,7 +258,7 @@ ul{
     margin: 100px auto 50px;
 }
 select{
-    border: 1px solid #ff523b;
+    border: 1px solid lightseagreen;
     padding: 5px;
 }
 select:focus{
@@ -269,7 +269,7 @@ select:focus{
 }
 .page-btn span{
     display: inline-block;
-    border: 1px solid #ff523b;
+    border: 1px solid lightseagreen;
     margin-left: 10px;
     width: 40px;
     height: 40px;
@@ -278,11 +278,11 @@ select:focus{
     cursor: pointer;
 }
 .page-btn span:hover{
-    background: #ff523b;
+    background: lightseagreen;
     color: #fff;
 }
 
-/*------singlw product details------*/
+/*------single product details------*/
 
 .single-product{
     margin-top: 80px;
@@ -309,13 +309,13 @@ select:focus{
     padding-left: 10px;
     font-size: 20px;
     margin-right: 10px;
-    border: 1px solid #ff523b;
+    border: 1px solid lightseagreen;
 }
 input:focus{
     outline: none;
 }
 .fa-indent{
-    color: #ff523b;
+    color: lightseagreen;
     margin-left: 10px;
 }
 .small-img-row{
@@ -343,7 +343,7 @@ th{
     text-align: left;
     padding: 5px;
     color: #fff;
-    background: #ff523b;
+    background: lightseagreen;
     font-weight: normal;
 }
 td{
@@ -355,7 +355,7 @@ td input{
     padding: 5px;
 }
 td a{
-    color: #ff523b;
+    color: lightseagreen;
     font-size: 12px;
 }
 td img{
@@ -368,7 +368,7 @@ td img{
     justify-content: flex-end;
 }
 .total-price table{
-    border-top: 3px solid #ff523b;
+    border-top: 3px solid lightseagreen;
     width: 100%;
     max-width: 420px;
 }
@@ -382,7 +382,7 @@ th:last-child{
 /*-----account page-----*/
 .account-page{
     padding: 50px 0;
-    background: radial-gradient(#fff, #ffd6d6);
+    background: lightseagreen;
 }
 .form-container{
     background: #fff;
@@ -441,7 +441,7 @@ form a{
 #Indicator{
     width: 100px;
     border: none;
-    background: #ff523b;
+    background: lightseagreen;
     height: 3px;
     margin-top: 8px;
     transform: translateX(100px);
